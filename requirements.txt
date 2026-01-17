@@ -1,0 +1,23 @@
+##REQUIREMENTS
+The following software and libraries are required to run this project successfully:
+
+#Python 3.x
+Used as the primary programming language for data analysis and model development.
+
+#Pandas
+Used for data loading, cleaning, manipulation, and analysis of retail sales data.
+
+#NumPy
+Used for numerical computations and array operations.
+
+#Matplotlib
+Used for creating visualizations such as line plots and charts during exploratory data analysis.
+
+#Seaborn
+Used for advanced statistical visualizations, including correlation heatmaps.
+
+#Scikit-learn
+Used for implementing machine learning algorithms, including Linear Regression, train-test splitting, and model evaluation using RMSE.
+
+#Jupyter Notebook
+Used as the development environment for exploratory data analysis, visualization, and model experimentation.
