@@ -12,7 +12,7 @@ Retail businesses often face challenges in forecasting product demand accurately
 - Build a machine learning model to predict future demand  
 
 ## Dataset
-- Retail sales dataset (Superstore Sales Data)
+- Retail sales dataset (Superstore Sales Data) from Kaggle
 - Stored in Excel format
 - Key features used:
   - Sales
