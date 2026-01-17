@@ -30,8 +30,8 @@ Retail businesses often face challenges in forecasting product demand accurately
 - Model evaluation using RMSE
 
 ## Machine Learning Model
-- Model used: **Linear Regression**
-- Type: Supervised learning (baseline model)
+- Model used: **Linear Regression (baseline)** **Random Forest Regressor (prototype)**
+- Type: Supervised learning 
 - Target variable: Sales
 
 ## Results
